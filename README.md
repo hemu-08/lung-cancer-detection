@@ -21,7 +21,7 @@ AI-powered early detection system for lung cancer in non-smokers using clinical 
 4. Open browser: `http://127.0.0.1:5000`
 
 ## Screenshots
-![App Screenshot](screenshot.png)
+![App Screenshot](OneDrive/Desktop/phishing%20detection/phishing-detector/screenshot.png)
 
 ## Model Performance
 - Accuracy: 84%
